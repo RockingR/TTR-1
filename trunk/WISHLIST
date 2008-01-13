@@ -1,0 +1,14 @@
+OPEN WISHES:
+
+- Ability to handle and return other class structures (e.g. zoo, ts).
+
+- Functionality to summarize results of technical trading rules.
+  (via PerformanceAnalytics?)
+
+
+GRANTED WISHES:
+
+- A plotting function that allows charting price, volume, indicators,
+  etc. on one device.
+  UPDATE: This solution is provided in quantmod.
+
